@@ -37,3 +37,9 @@ pip install mypy
 ```bash
 mypy application.py --check-untyped-defs --ignore-missing-imports
 ```
+
+- Ejecutamos python para revisar los resultados del proyecto.
+
+```bash
+python3 app.py
+```
