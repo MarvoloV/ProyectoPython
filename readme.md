@@ -1,6 +1,6 @@
 # Ventas aleatorias con Python
 
-Este repositorio contiene la implementación del ejercicio propuesto "Aplicación de ventas aleatorias de una tienda de productos tecnológicos".
+Este repositorio contiene la implementación del Proyecto propuesto "Aplicación de ventas estimadas aleatorias de vuelos comerciales".
 
 - El archivo app.py, contiene la implementación del ejercicio desarrollado con una programación orientada a objetos.
 
