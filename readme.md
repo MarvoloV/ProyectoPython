@@ -35,7 +35,7 @@ pip install mypy
 - Ejecutar mypy para la revision de tipado
 
 ```bash
-mypy application.py --check-untyped-defs --ignore-missing-imports
+mypy app.py --check-untyped-defs --ignore-missing-imports
 ```
 
 - Ejecutamos python para revisar los resultados del proyecto.
